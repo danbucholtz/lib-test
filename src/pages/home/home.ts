@@ -10,5 +10,6 @@ import uuid from 'node-uuid';
 export class HomePage {
   constructor(public navCtrl: NavController) {
     console.log('have a guid: ', uuid.v4());
+    console.log('have a good day');
   }
 }

@@ -31,6 +31,7 @@
   "devDependencies": {
     "@angular/compiler-cli": "0.6.2",
     "@ionic/app-scripts": "latest",
+    "@types/node-uuid": "0.0.28",
     "typescript": "2.0.2"
   },
   "cordovaPlugins": [
